@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[BCM]]></title>
         <description><![CDATA[BCM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bcm/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Fri, 13 May 2016 13:03:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/bcm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BMW E30 TM Concept30 Car Concept by TMcars]]></title>
+            <description><![CDATA[<article><h1>BMW E30 TM Concept30 Car Concept by TMcars</h1><p>BMW E30 TM Concept30 Car Concept by TMcars Designer descriptions: TMcars concept30 plays on the popularity and availability of the E30. The idea behind the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/439b15f7e9e9042582b86d854c1820910b8047f8.jpg"></article>]]></description>
+            <link>http://techcracks.com/2012/10/bmw-e30-tm-concept30-car-concept-by-tmcars/</link>
+            <guid isPermaLink="false">9a5cac6a-54c3-44f0-b02e-e1bd415ad798</guid>
+            <pubDate>Fri, 13 May 2016 13:03:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Tesla Will Destroy the Automobile Industry]]></title>
             <description><![CDATA[<article><h1>Why Tesla Will Destroy the Automobile Industry</h1><p>If there's an example of a company about to disruptively innovate an entire industry, it's Tesla. Partly, this is because of raw technology--Tesla's is clearly superior to that of its competitors. Partly, it's because Tesla has a more efficient business model. As Slate recently pointed out, Tesla bypasses value-subtracting dealer franchises and universally disliked car salespeople.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/967786c4c9a099ae3d4e342800c9901098d0268b.jpg"></article>]]></description>
