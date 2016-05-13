@@ -1,0 +1,14 @@
+layout_spectrum: 0.880684349918738
+typography_spectrum: 0.6290173730812967
+color:
+  brandStrength: 0.3477835503872484
+  lightness: 0.6161741104442626
+  saturation: 0.553536812774837
+  rhythmicContrast: 0.27633483661338687
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: BCM
